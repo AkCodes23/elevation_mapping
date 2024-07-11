@@ -18,6 +18,7 @@
 #include "elevation_mapping/PointXYZRGBConfidenceRatio.hpp"
 #include "elevation_mapping/WeightedEmpiricalCumulativeDistributionFunction.hpp"
 
+
 namespace {
 /**
  * Store an unsigned integer value in a float
